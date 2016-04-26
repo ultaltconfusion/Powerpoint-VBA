@@ -1,4 +1,6 @@
 Sub addcommentCBP()
+'This macro responds to all comments, with modifiable author name and initials
+'The body of the reply is purposefully left blank.
 
     Dim oSl As Slide
     Dim oSlides As Slides
